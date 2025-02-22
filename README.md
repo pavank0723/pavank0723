@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Election Setu DApps**
 
-- 👨‍🎓 I’m currently Studying **Master in Information Technology**
+- 👨‍🎓 I’m currently Working as **Software Developer**
 
 - 🌱 I’m currently learning **MERN**
 
